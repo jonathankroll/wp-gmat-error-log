@@ -1,4 +1,4 @@
-wp-gmat-error-log
+Kroll's GMAT Error Log for WordPress
 =================
 
 GMAT error log for WordPress
